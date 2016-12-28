@@ -5,6 +5,6 @@ python2.7使用
 使い方:
 git clone URL
 cd ./Numbers_to_Tex
-Numbersの表の一部をクリップボードにコピー
+（Numbersの表の一部をクリップボードにコピーした後）
 python ./Numbers_to_Table.py
 （クリップボードにTex形式で出力される）
